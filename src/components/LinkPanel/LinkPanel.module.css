@@ -1,0 +1,13 @@
+.link_panel {
+    border-radius: 5vmin;
+    background-color: white;
+    height: 15vw;
+    width: 70vw;
+    max-height: 15vh;
+    max-width: 45vmax;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+    margin: 5vmin auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
