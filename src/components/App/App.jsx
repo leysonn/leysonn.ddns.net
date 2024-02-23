@@ -15,7 +15,7 @@ function App() {
             <div className={styles.links}>
                 <LinkPanel
                     links={[
-                        { title: 'Telegram', url: 'https://t.me/leysonmart' },
+                        { title: 'Telegram', url: 'https://t.me/lleyson' },
                         { title: 'Twitch', url: 'https://www.twitch.tv/leysonmart_' },
                         { title: 'Github', url: 'https://github.com/leysonn' },
                         { title: 'Shikimori', url: 'https://shikimori.me/Leyson' },
